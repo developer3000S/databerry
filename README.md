@@ -100,6 +100,10 @@ pnpm worker:datasource-loader
 cp .env.example .env.local
 # Add your own OPENAI_API_KEY
 
+# Install dependencies
+pnpm install
+
+# Run server
 pnpm dev
 
 # pupeteer browser local
