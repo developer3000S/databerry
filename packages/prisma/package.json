@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@chaindesk/tsconfig": "workspace:*",
-    "@faker-js/faker": "^8.3.1",
+    "@faker-js/faker": "^10.5.0",
     "@types/faker": "^6.6.9",
     "@types/node": "18.15.10",
     "dotenv-cli": "^7.1.0",

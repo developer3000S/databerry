@@ -18,14 +18,14 @@
     "@mui/utils": "5.15.9",
     "@notionhq/client": "^2.2.13",
     "@slack/web-api": "^6.8.1",
-    "axios": "^1.3.4",
+    "axios": "^1.20.0",
     "crisp-api": "^7.4.1",
     "cuid": "^3.0.0",
     "i18next": "^23.6.0",
     "p-map": "^5.5.0",
     "react-hook-form": "^7.49.2",
     "react-hot-toast": "^2.4.1",
-    "zod": "3.22.4"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@chaindesk/tsconfig": "workspace:*",

@@ -31,7 +31,7 @@
     "react-transition-group": "^4.4.5",
     "simplex-noise": "^4.0.1",
     "tailwind-merge": "^2.2.1",
-    "zod": "3.22.4"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@chaindesk/tsconfig": "workspace:*",
